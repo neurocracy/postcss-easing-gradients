@@ -1,4 +1,4 @@
-⚠️ This is a fork of the original
+⚠️ This is a fork and continuation of
 [larsenwork/postcss-easing-gradients](https://github.com/larsenwork/postcss-easing-gradients)
 as that package appears abandoned.
 
@@ -14,13 +14,16 @@ This fork can be installed with your package manager of choice (we recommend
 All development occurs on [this project's GitLab
 page](https://gitlab.com/neurocracy/front-end/postcss-easing-gradients); all issues or merge requests should be opened there.
 
-This fork's main branch merges in the following open pull requests:
+This fork's main branch merges in the following pull requests:
 
 * [larsenwork/postcss-easing-gradients#13 - Fixes incorrect colour stop documentation](https://github.com/larsenwork/postcss-easing-gradients/pull/13).
 
 * [larsenwork/postcss-easing-gradients#14 - Update to PostCSS 8](https://github.com/larsenwork/postcss-easing-gradients/pull/14).
 
 * [larsenwork/postcss-easing-gradients#18 - Chroma.js workaround for lack of `deg` unit support](https://github.com/larsenwork/postcss-easing-gradients/pull/18).
+
+Additionally, dependencies have been upgraded to the latest, most notably
+[chroma.js](https://gka.github.io/chroma.js/).
 
 Original readme follows:
 
