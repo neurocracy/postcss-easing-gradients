@@ -28,10 +28,10 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="1.4803312"
-     inkscape:cx="346.54407"
-     inkscape:cy="265.81889"
-     inkscape:window-width="3440"
-     inkscape:window-height="1403"
+     inkscape:cx="241.16225"
+     inkscape:cy="265.48113"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
      inkscape:window-x="0"
      inkscape:window-y="37"
      inkscape:window-maximized="1"
@@ -75,24 +75,24 @@
        sodipodi:insensitive="true"
        inkscape:label="Gradient" />
     <path
-       style="fill:none;stroke:#ffffff;stroke-width:3.29251;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-       d="M 12.330645,123.90909 C 67.021105,123.60763 68.937603,11.31996 124.91586,11.206411"
+       style="fill:none;stroke:#ffffff;stroke-width:3.293;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       d="M 24.020136,117.35018 C 71.363635,106.1749 58.244764,26.780099 112.17004,16.061774"
        id="path2"
        sodipodi:nodetypes="cc"
        inkscape:label="Curve" />
     <circle
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.4773;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:7.10772;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
        id="path3"
-       cx="12.769123"
-       cy="123.44434"
+       cx="15.378138"
+       cy="119.52683"
        inkscape:label="End circle (bottom left)"
-       r="6" />
+       r="9.5249996" />
     <circle
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.4773;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:7.10773;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
        id="circle3"
-       cx="124.48202"
-       cy="11.083068"
+       cx="120.6692"
+       cy="14.117511"
        inkscape:label="End circle (top right)"
-       r="6" />
+       r="9.5249996" />
   </g>
 </svg>
